@@ -31,3 +31,21 @@ figure.foto-legenda figcaption{
 figure.foto-legenda:hover figcaption{
     opacity: 100%;
 }
+/* Formatacao do Menu*/
+nav#menu{
+    display: block;
+}
+nav#menu ul{
+    list-style:nome;
+    text-transform: uppercase;
+    position: absolute;
+    top: -0;
+    left: 300px;
+
+}
+nav#menu li{
+    display: inline-block;
+    background-color: rgb(241, 215, 196);
+    padding: 10px;
+    margin: 2px;
+}
