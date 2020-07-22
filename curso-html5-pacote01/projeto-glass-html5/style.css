@@ -1,0 +1,12 @@
+ body {
+    background-image: url("_imagens/fundo.jpg");
+    color: black;
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
+figure.foto-legenda{
+    border: 8px solid red;
+}
